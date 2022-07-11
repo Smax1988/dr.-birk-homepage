@@ -1,0 +1,21 @@
+black:          #000000
+    >>background-color nav + footer
+
+dark blue:      #00293f
+    >>background-color main
+    >>Headlines
+
+petroleum:      #26727E
+    >>color standard text
+
+
+light blue:     #dcefff
+    >>background-color container
+
+orange:         #E06D10
+    >>akzente
+    >>button effects
+    
+
+dark red:       #A01C32
+    >>hyperlinks
